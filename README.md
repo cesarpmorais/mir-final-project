@@ -5,6 +5,4 @@
 - Mapas de constelação com a lib "audiorecognition" - César
 - DTW Aberto - ?
 - Resultados - ?
-
-- Extra dataset dos Beatles - ?
 - Extra CNN - ?
