@@ -19,6 +19,9 @@ Este trabalho investiga métodos para a identificação de covers musicais utili
 - **dtw_analysis.ipynb**  
   Notebook que contém a análise dos dados gerados pelo DTW. Nele são apresentados gráficos comparativos, métricas de desempenho e a otimização do threshold utilizado para a classificação dos covers (baseado na maximização do F1-score).
 
+- **dtw_code.ipynb**  
+  Notebook que contém a obtenção dos dados usando o algoritmo DTW. Os valores calculados aqui, são salvos no arquivo dtw_results.json no final.
+  
 - **dtw_results.json**  
   Arquivo JSON que armazena os resultados da análise DTW, ou seja, os valores de distância entre as faixas.
 
