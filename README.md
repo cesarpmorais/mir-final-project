@@ -1,4 +1,4 @@
-# Projeto MIR Final - Análise de Covers com DTW e Cromagramas
+# Projeto MIR Final - Análise de Covers com DTW e Mapa de Constelações
 
 Este trabalho investiga métodos para a identificação de covers musicais utilizando mapas de constelação e DTW (Dynamic Time Warping) aberto, realizando uma análise comparativa das duas abordagens.
 
